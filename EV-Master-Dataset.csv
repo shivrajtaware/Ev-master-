@@ -1,0 +1,50 @@
+Brand,Model,Year,Country,Region,Price_USD,Range_km,Battery_kWh,Efficiency_Wh_km,Top_Speed_kmh,Acceleration_0_100_s,Charging_Time_hr,Sales_Units,Market_Share_Pct,Seats,Drive_Type,Body_Type,FastCharge_kW
+Tesla,Model 3,2021,United States,North America,42000,491,60,122,225,5.8,0.8,110000,7.5,5,RWD,Sedan,170
+Tesla,Model 3,2022,United States,North America,45000,500,60,120,233,5.6,0.75,120000,7.8,5,RWD,Sedan,170
+Tesla,Model 3,2023,United States,North America,47000,510,62,118,235,5.5,0.75,125000,8.0,5,RWD,Sedan,190
+Tesla,Model Y,2022,United States,North America,58000,525,75,143,241,5.1,1.2,95000,6.1,5,AWD,SUV,210
+Tesla,Model S,2023,United States,North America,95000,652,100,153,250,3.2,1.5,35000,2.2,5,AWD,Sedan,250
+Tesla,Model X,2023,United States,North America,110000,580,100,172,250,3.9,1.6,27000,1.7,6,AWD,SUV,250
+Nissan,Leaf,2021,Japan,Asia,31000,270,40,148,144,8.5,0.5,60000,4.1,5,FWD,Hatchback,50
+Nissan,Ariya,2022,Japan,Asia,47000,450,65,144,200,7.0,1.0,40000,2.8,5,AWD,SUV,130
+BMW,i3,2021,Germany,Europe,44000,285,42,147,150,7.3,0.6,22000,1.5,4,RWD,Hatchback,50
+BMW,i4,2023,Germany,Europe,56000,520,80,154,225,5.7,1.3,30000,2.1,5,RWD,Sedan,200
+BMW,iX,2023,Germany,Europe,85000,600,105,175,245,4.8,1.5,18000,1.2,5,AWD,SUV,200
+Hyundai,Kona Electric,2022,South Korea,Asia,37000,415,64,154,167,7.9,0.8,45000,3.0,5,FWD,SUV,75
+Hyundai,Ioniq 5,2022,South Korea,Asia,42000,480,72,150,185,5.4,1.0,55000,3.7,5,RWD,Crossover,220
+Hyundai,Ioniq 6,2023,South Korea,Asia,46000,610,77,126,185,5.1,1.1,40000,2.7,5,RWD,Sedan,220
+Kia,EV6,2022,South Korea,Asia,45000,528,77,146,190,5.2,1.0,47000,3.2,5,AWD,Crossover,220
+Kia,Niro EV,2021,South Korea,Asia,39000,385,64,166,155,7.8,0.9,32000,2.1,5,FWD,SUV,80
+Audi,e-tron,2022,Germany,Europe,68000,436,95,218,200,5.7,1.2,28000,1.9,5,AWD,SUV,150
+Audi,Q4 e-tron,2022,Germany,Europe,52000,520,77,148,180,6.2,1.1,33000,2.3,5,AWD,SUV,135
+Mercedes-Benz,EQS,2023,Germany,Europe,102000,770,120,156,250,4.3,2.0,15000,1.0,5,AWD,Sedan,200
+Mercedes-Benz,EQA,2022,Germany,Europe,57000,426,66,155,160,8.9,1.0,20000,1.3,5,FWD,SUV,100
+Porsche,Taycan,2023,Germany,Europe,120000,500,93,186,260,3.5,1.5,18000,1.2,4,AWD,Sedan,270
+Porsche,Macan EV,2024,Germany,Europe,95000,600,100,166,250,3.8,1.5,12000,0.8,5,AWD,SUV,250
+BYD,Han EV,2022,China,Asia,34000,605,76,126,180,7.9,0.9,85000,5.7,5,FWD,Sedan,120
+BYD,Atto 3,2022,China,Asia,25000,420,60,143,160,7.3,0.8,90000,6.0,5,FWD,SUV,88
+BYD,Tang EV,2023,China,Asia,48000,520,86,165,180,4.4,1.2,50000,3.3,7,AWD,SUV,160
+Volkswagen,ID.4,2022,Germany,Europe,43000,520,77,148,180,6.2,1.0,70000,4.7,5,RWD,SUV,135
+Volkswagen,ID.3,2022,Germany,Europe,39000,425,62,146,160,7.3,0.9,65000,4.3,5,RWD,Hatchback,120
+Renault,Zoe,2021,France,Europe,28000,395,52,132,140,11.2,0.7,72000,4.9,5,FWD,Hatchback,50
+Renault,Megane E-Tech,2022,France,Europe,36000,470,60,128,160,7.4,0.8,30000,2.0,5,FWD,Hatchback,130
+Ford,Mustang Mach-E,2022,United States,North America,47000,500,75,150,200,5.8,1.1,45000,3.0,5,AWD,SUV,150
+Ford,F-150 Lightning,2023,United States,North America,55000,370,98,265,170,4.5,1.5,35000,2.3,5,AWD,Pickup,250
+Volvo,XC40 Recharge,2022,Sweden,Europe,54000,418,78,187,180,4.9,1.0,28000,1.9,5,AWD,SUV,150
+Volvo,C40 Recharge,2022,Sweden,Europe,56000,440,82,186,180,4.7,1.0,26000,1.8,5,AWD,Crossover,150
+Tata,Nexon EV,2022,India,Asia,21000,312,40,128,120,9.9,0.7,90000,6.0,5,FWD,SUV,50
+MG,ZS EV,2022,China,Asia,30000,420,50,119,140,8.5,0.8,60000,4.0,5,FWD,SUV,75
+Lucid,Air,2023,United States,North America,125000,830,118,142,270,2.9,2.0,12000,0.8,5,AWD,Sedan,300
+Rivian,R1T,2023,United States,North America,80000,510,135,180,200,3.5,1.8,16000,1.1,5,AWD,Pickup,220
+Rivian,R1S,2023,United States,North America,85000,500,135,185,200,3.6,1.8,14000,0.9,7,AWD,SUV,220
+XPeng,P7,2022,China,Asia,42000,500,86,172,200,6.2,1.1,45000,3.0,5,RWD,Sedan,120
+NIO,ET7,2023,China,Asia,70000,700,100,143,200,3.8,1.5,22000,1.5,5,AWD,Sedan,180
+Toyota,bZ4X,2023,Japan,Asia,42000,510,71,139,160,7.5,1.0,38000,2.5,5,AWD,SUV,150
+Peugeot,e-208,2022,France,Europe,32000,362,50,138,150,8.1,0.8,52000,3.5,5,FWD,Hatchback,100
+Skoda,Enyaq iV,2022,Czechia,Europe,46000,520,77,148,180,6.9,1.0,41000,2.7,5,RWD,SUV,125
+Renault,Twingo Electric,2021,France,Europe,22000,190,22,116,135,12.9,0.6,48000,3.2,4,RWD,Hatchback,22
+BYD,Seal,2023,China,Asia,38000,570,82,144,210,5.9,1.2,62000,4.1,5,RWD,Sedan,150
+Tesla,Cybertruck,2024,United States,North America,89900,560,123,220,210,3.1,1.8,18000,1.2,5,AWD,Pickup,250
+Volkswagen,ID.7,2024,Germany,Europe,52000,615,86,140,200,6.4,1.2,29000,1.9,5,RWD,Sedan,175
+Hyundai,IONIQ 5 N,2024,South Korea,Asia,68000,450,84,187,260,3.5,1.1,12000,0.8,5,AWD,Hatchback,235
+Kia,EV9,2024,South Korea,Asia,65000,505,99,196,200,5.3,1.3,22000,1.5,7,AWD,SUV,210
